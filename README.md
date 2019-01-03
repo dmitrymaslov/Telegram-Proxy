@@ -8,4 +8,6 @@ There are 2 parameters in azure-proxy.yml
 
 There is username on 23 line in create_proxy.sh is tluser
 
+    useradd --shell /usr/sbin/nologin tluser
+
 You should change they to yours.
