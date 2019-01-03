@@ -2,6 +2,7 @@
 SOCKS5 Proxy-Server for Telegram
 
 There are 2 parameters in azure-proxy.yml
+
     admin_username: telegram
     admin_password: 66yjv7Fe8v7GG
 
