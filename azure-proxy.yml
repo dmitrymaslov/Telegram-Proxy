@@ -5,8 +5,8 @@
     resource_group: Telegram-Socks-RG
     vm_name: tlg-socks
     location: westeurope
-    admin_username: telegram
-    admin_password: Y2663Mqar8VEn
+    admin_username: input_here_your_username
+    admin_password: input_here_your_password
   tasks:
   - name: Create a resource group
     azure_rm_resourcegroup:
